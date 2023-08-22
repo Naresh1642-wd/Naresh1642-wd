@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=naresh1642-wd&label=Profile%20views&color=0e75b6&style=flat" alt="naresh1642-wd" /> </p>
 
-- 🌱 I’m currently learning **React Express**
+- 🌱 I’m currently learning **React Express** 
 
 - 👨‍💻 All of my projects are available at [https://nareshwebdev.netlify.app](https://nareshwebdev.netlify.app)
 
