@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web development related projects**
 
-- 👨‍💻 All of my projects are available at [https://nareshwebdev.netlify.app](https://nareshwebdev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nareshk.netlify.app/](https://nareshk.netlify.app/)
 
 - 📫 How to reach me **nkfswebdev16@gmail.com**
 
